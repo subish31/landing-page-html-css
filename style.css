@@ -1,0 +1,29 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.overlay-text{
+    position:absolute;
+    top:50%;
+    width:500px;
+    padding-left:200px;
+}
+.overlay-text h1{
+    text-align: center;
+}
+.images{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    display:flex;
+    justify-content: space-between;
+}
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding:20px;
+}
+a{
+    padding-left:5px;
+}
